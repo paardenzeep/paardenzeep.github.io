@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.paardenzeep.nl/products/olive-original/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paardenzeep.nl/products/olive-oatmeal/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paardenzeep.nl/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.paardenzeep.nl/products/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.paardenzeep.nl/products/product-1/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.paardenzeep.nl/products/product-2/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,37 +33,7 @@
   </url>
   
   <url>
-    <loc>https://www.paardenzeep.nl/products/product-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.paardenzeep.nl/products/product-7/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.paardenzeep.nl/products/product-8/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.paardenzeep.nl/blog/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.paardenzeep.nl/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.paardenzeep.nl/products/product-6/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.paardenzeep.nl/products/product-5/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -69,11 +44,6 @@
   
   <url>
     <loc>https://www.paardenzeep.nl/blog/post-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.paardenzeep.nl/products/product-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
