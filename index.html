@@ -213,13 +213,15 @@ if (!doNotTrack) {
         <h2 class="subheading text-white">Blijf op de hoogte</h2>
         <p class="text-white">Schrijf je hieronder in, als je wilt dat we je op de hoogte houden als zeep weer op voorraad is, of als we nieuwe zepen toevoegen aan ons assortiment.</p>
         <div class="input-group">
-          <form action="" method="post" class="w-100" name="mc-embedded-subscribe-form" target="_blank">
-            <input type="email" id="email" class="form-control" name="email" placeholder="Jouw emailadres"
-              required>
-            <button class="btn btn-main btn-submit" type="submit" name="subscribe">Abonneer</button>
-            <div style="position: absolute; left: -5000px;" aria-hidden="true">
-              <input type="text" name="" tabindex="-1">
-            </div>
+          <form action="https://mail.cc2me.nl/subscribe" method="POST" class="w-100" accept-charset="utf-8">
+            <input type="text" name="name" placeholder="Voornaam" id="name" size="12"/>
+            <input type="email" name="email" placeholder="E-mailadres" id="email" size="30"/>
+            <div style="display:none;">
+            <label for="hp">HP</label><br/>
+            <input type="text" name="hp" id="hp"/></div>
+            <input type="hidden" name="list" value="qXV5xD7sz892n5moHnN5Hw763Q"/>
+            <input type="hidden" name="subform" value="yes"/>
+            <input type="submit" name="submit" id="submit"/>
           </form>
         </div>
       </div>
